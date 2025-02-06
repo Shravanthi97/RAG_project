@@ -12,6 +12,8 @@ Welcome to the Expert Knowledge Worker project! This repository contains the cod
 ## Technologies Used:
 1. Retrieval-Augmented Generation (RAG): A method that enhances the question-answering capabilities by retrieving relevant information and generating accurate answers.
 2. Natural Language Processing (NLP): Core technology used to understand and process user queries.
-3. Future Enhancements:
-4. Advanced RAG Techniques: Future versions will incorporate more sophisticated RAG methods to improve performance and scalability.
-5. Continuous Learning: Incorporating a feedback loop for continuous improvement based on user input.
+
+
+## Future Enhancements:
+1. Advanced RAG Techniques: Future versions will incorporate more sophisticated RAG methods to improve performance and scalability.
+2.  Continuous Learning: Incorporating a feedback loop for continuous improvement based on user input.
